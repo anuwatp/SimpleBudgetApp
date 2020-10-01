@@ -21,4 +21,4 @@ A simple app for making budget. The app will let you add incomes and expenses, t
 * Controller module
   - Add event handler
   
-  
+  ![Image of Architecture](https://anuwatp.github.com/Artitecture_MVC.PNG)
