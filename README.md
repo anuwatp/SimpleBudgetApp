@@ -10,7 +10,7 @@ A simple app for making budget. The app will let you add incomes and expenses, t
 * Express.js - The server for handling and routing HTTP requests.
 * EJS - Embedded JavaScript templating.
 
-## Modules
+## Architecture MVC
 * UI Module
   - Get input values
   - Add the new item to the UI
